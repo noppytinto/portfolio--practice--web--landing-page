@@ -10,7 +10,7 @@
 
 # webpack
 # (remove if using github pages)
-# **/dist/
+**/dist/
 
 # react
 # (remove if using github pages)

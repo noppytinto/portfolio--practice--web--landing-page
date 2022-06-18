@@ -12,7 +12,7 @@ const config = {
   },
   devtool: 'inline-source-map',
   output: {
-    path: path.resolve(__dirname, "dist"),
+    path: path.resolve(__dirname, "docs"),
     filename: '[name].[contenthash].js',
     clean: true,
     assetModuleFilename: 'assets/[name].[contenthash].[ext][query]',
